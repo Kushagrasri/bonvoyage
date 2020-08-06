@@ -1,0 +1,60 @@
+name: bon_voyage
+description: Make your journey beautiful :)
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.1
+  dio: ^3.0.9
+  cupertino_icons: ^0.1.3
+  google_maps_flutter: ^0.5.11+1
+  flutter_polyline_points: ^0.2.2
+  geolocator: ^5.3.1
+  permission_handler: ^4.4.0+hotfix.2
+  android_intent: ^0.3.7+2
+  location: ^3.0.0
+  gradient_app_bar: ^0.0.1
+  hexcolor: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: "^0.7.3"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/apphead.png"
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/custompin.png
+    - assets/addLoc.png
+    - assets/basics.png
+    - assets/image11.jpg
+
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Regular.ttf
+        - asset: fonts/Raleway-Italic.ttf
+          style: italic
+    - family: Amatic
+      fonts:
+        - asset: fonts/AmaticSC-Regular.ttf
+        - asset: fonts/AmaticSC-Bold.ttf
+          weight: 700
+    - family: Sacramento
+      fonts:
+        - asset: fonts/Sacramento-Regular.ttf

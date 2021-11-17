@@ -27,7 +27,7 @@ Places can be of two types-
 
 All places can have an optional comment where the user whose visit this is, can specify their views/suggestions of that place and this would be displayed over the marker on the map.
 
-Here is a [demo video](https://drive.google.com/file/d/1dINP3BG_8gH21rZ0TKCRyB8JRPj9wH23/view?usp=sharing) of the app which displays the basic functionalities of the app in development phase. 
+Here is a [demo screen recording](https://drive.google.com/file/d/1dINP3BG_8gH21rZ0TKCRyB8JRPj9wH23/view?usp=sharing) of the app which displays the basic functionalities of the app in development phase. 
 
 Some screenshots of the app are attached - 
 

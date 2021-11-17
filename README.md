@@ -33,7 +33,7 @@ Some screenshots of the app are attached -
 
 <img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/1.jpg" width=100><img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/2.jpg" width=100><img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/3.1.jpg" width=100><img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/3.2.jpg" width=100><img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/4.jpg" width=100><img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/5.jpg" width=100><img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/6.jpg" width=100><img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/7.jpg" width=100><img src="https://github.com/Kushagrasri/bonvoyage/blob/master/Images/8.jpg" width=100>
 
-### [Link](https://www.getpostman.com/collections/c4ed9cb727a4f87ad46a) to Postman collection
+### Here is a link to the [Postman Collection](https://www.getpostman.com/collections/c4ed9cb727a4f87ad46a) of Bon Voyage.
 
 ### Tech Used -
 ```
